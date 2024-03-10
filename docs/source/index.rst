@@ -10,7 +10,7 @@ Welcome to Test_Package_Vojacek's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-modules
+   modules
 
 Indices and tables
 ==================
