@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+test_package_vojacek.egg-info/PKG-INFO
+test_package_vojacek.egg-info/SOURCES.txt
+test_package_vojacek.egg-info/dependency_links.txt
+test_package_vojacek.egg-info/requires.txt
+test_package_vojacek.egg-info/top_level.txt

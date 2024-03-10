@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: test_package_vojacek
+Version: 0.0.1
+Author: L. Vojacek
+Author-email: libor.vojacek@cea.fr
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Requires-Dist: pytest-mpl
